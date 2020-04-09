@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xshyamx/vote.git"
+    "url": "git+https://github.com/xshyamx/hey-vote.git"
   },
   "author": "shyam <shyamsundar.shanmugam@wipro.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xshyamx/vote/issues"
+    "url": "https://github.com/xshyamx/hey-vote/issues"
   },
-  "homepage": "https://github.com/xshyamx/vote#readme"
+  "homepage": "https://github.com/xshyamx/hey-vote#readme"
 }
