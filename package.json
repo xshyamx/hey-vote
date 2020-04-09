@@ -1,0 +1,23 @@
+{
+  "name": "hey-vote",
+  "version": "1.0.0",
+  "description": "Test form submit in hey",
+  "main": "vote.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xshyamx/vote.git"
+  },
+  "author": "shyam <shyamsundar.shanmugam@wipro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xshyamx/vote/issues"
+  },
+  "homepage": "https://github.com/xshyamx/vote#readme"
+}
