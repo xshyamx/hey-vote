@@ -13,7 +13,8 @@ votes = {
 }
 app.post('/', (req,res) => {
   votes[req.body.vote]++
-  res.end(votes[req.body.vote])
+  res.json(votes)
+  res.end()
 })
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
